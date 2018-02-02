@@ -1,18 +1,23 @@
 Chatbot Privacy Policy
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our chatbot.
 
-What personal information do we collect from the people that use our app?
+"Chatbot" in the document refers to EBCBOT, Electbot or Barbados Polls depending on the specific platform integration. 
+"We" and "Our" refer primarily to the Electoral & Boundaries Commission of Barbados, and Secondarily to Data Processing Department of Barbados.
+"You and "Your" refer to any individual user engaging interacting with our chatbot
+"PD" referes to Polling District
+"ID" refers to Identification Number also known as the National Registration Number of Barbados.
 
-When requesting information fromour app as appropriate, you may be asked to enter your name, email address, mailing address, ID number or other details to help you with your experience.
+What personal information do we collect from the people that use our chatbot?
+
+When requesting information from our chatbot as appropriate, you may be asked to enter your name, email address, mailing address, ID number or other details to help you with your experience.
 
 When do we collect information?
 
-We collect information from you when you enter information in our app.
+We collect information from you when you enter information in our chatbot; specifically when you make a request for your Polling Station, Polling District or Constituency.
 
-Request their Polling Station 
 How do we use your information?
 
-We may use the information we collect from you when you use certain other app features in the following ways:
+We may use the information we collect from you when you use certain features in the following ways:
 
       • To personalize your experience and to allow us to deliver the type of content in which you are most interested.
       • To quickly process your requests.
@@ -27,21 +32,11 @@ Your personal information is contained behind secured networks and is only acces
 
 We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
 
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
+All requests/transactions are processed through a gateway provider and are not stored or processed on our servers.
 
 Do we use 'cookies'?
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
-
-We use cookies to:
-      • Understand and save user's preferences for future visits.
-
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
-
-If users disable cookies in their browser:
-
-If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.Some of the features that make your site experience more efficient and may not function properly.
-
+Not exactly. Fot chatting we use something called contexts. Which allows us to remember what you asked and refer to it later in the conversation. They are also used to help us understand your preferences based on previous or current chatbot activity, which enables us to provide you with improved services. We also use contextx to help us compile aggregate data about conversation logs and analytics so that we can improve conversation flow and offer a better overall experience and tools in the future.
 
 Third-party disclosure
 
@@ -49,27 +44,20 @@ We do not sell, trade, or otherwise transfer to outside parties your Personally 
 
 Third-party links
 
-We do not include or offer third-party products or services on our website.
-
-Google
-
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
-
-We have not enabled Google AdSense in our app but we may do so in the future.
+We do not include or offer third-party products or services in our chatbot.
 
 California Online Privacy Protection Act
 
 CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
 According to CalOPPA, we agree to the following:
-Users can use our app anonymously.
-Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+Once this privacy policy is created, we will add a link to it on our home page (www.electoral.gov.bb) or as a minimum, on the first significant page after entering our website.
 Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.
 
 You will be notified of any Privacy Policy changes:
       • On our Privacy Policy Page
 
-Does our app allow third-party behavioral tracking?
+Does our chatbot allow third-party behavioral tracking?
 It's also important to note that we do not allow third-party behavioral tracking
 
 COPPA (Children Online Privacy Protection Act)
@@ -96,19 +84,7 @@ CAN SPAM Act
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
 We may collect your email address in order to:
-      • Send information, respond to inquiries, and/or other requests or questions
-
-To be in accordance with CANSPAM, we agree to the following:
-      • Not use false or misleading subjects or email addresses.
-      • Identify the message as an advertisement in some reasonable way.
-      • Include the physical address of our business or site headquarters.
-      • Monitor third-party email marketing services for compliance, if one is used.
-      • Honor opt-out/unsubscribe requests quickly.
-      • Allow users to unsubscribe by using the link at the bottom of each email.
-
-If at any time you would like to unsubscribe from receiving future emails, you can email us at
-      • Follow the instructions at the bottom of each email.
-electoral.barbados.gov.bb and we will promptly remove you from ALL correspondence.
+      • Send information, respond to inquiries, and/or other requests or questions, as well as to process you request to be an elector or to inform us of a change of address.
 
 
 Contacting Us
@@ -121,5 +97,3 @@ Bridgetown, St. Michael BB23028
 Barbados
 electoral.barbados.gov.bb
 2465354800
-
-Last Edited on 2018-01-17
