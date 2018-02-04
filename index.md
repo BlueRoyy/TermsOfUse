@@ -1,7 +1,7 @@
 Chatbot Privacy Policy
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our chatbot.
 
-"Chatbot" in the document refers to EBCBOT, Electbot or Barbados Polls depending on the specific platform integration. 
+"Chatbot" in the document refers to EBCBOT, Electbot or Barbados Electoral depending on the specific platform integration. 
 "We" and "Our" refer primarily to the Electoral & Boundaries Commission of Barbados, and Secondarily to Data Processing Department of Barbados.
 "You and "Your" refer to any individual user engaging interacting with our chatbot
 "PD" referes to Polling District
