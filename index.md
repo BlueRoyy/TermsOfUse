@@ -1,99 +1,38 @@
-Chatbot Privacy Policy
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our chatbot.
-
-"Chatbot" in the document refers to EBCBOT, Electbot or Barbados Electoral depending on the specific platform integration. 
-"We" and "Our" refer primarily to the Electoral & Boundaries Commission of Barbados, and Secondarily to Data Processing Department of Barbados.
-"You and "Your" refer to any individual user engaging interacting with our chatbot
-"PD" referes to Polling District
-"ID" refers to Identification Number also known as the National Registration Number of Barbados.
-
-What personal information do we collect from the people that use our chatbot?
-
-When requesting information from our chatbot as appropriate, you may be asked to enter your name, email address, mailing address, ID number or other details to help you with your experience.
-
-When do we collect information?
-
-We collect information from you when you enter information in our chatbot; specifically when you make a request for your Polling Station, Polling District or Constituency.
-
-How do we use your information?
-
-We may use the information we collect from you when you use certain features in the following ways:
-
-      • To personalize your experience and to allow us to deliver the type of content in which you are most interested.
-      • To quickly process your requests.
-
-How do we protect your information?
-
-We do not use vulnerability scanning and/or scanning to PCI standards.
-We only provide articles and information. We never ask for credit card numbers.
-We use regular Malware Scanning.
-
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
-
-We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
-
-All requests/transactions are processed through a gateway provider and are not stored or processed on our servers.
-
-Do we use 'cookies'?
-
-Not exactly. Fot chatting we use something called contexts. Which allows us to remember what you asked and refer to it later in the conversation. They are also used to help us understand your preferences based on previous or current chatbot activity, which enables us to provide you with improved services. We also use contextx to help us compile aggregate data about conversation logs and analytics so that we can improve conversation flow and offer a better overall experience and tools in the future.
-
-Third-party disclosure
-
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
-
-Third-party links
-
-We do not include or offer third-party products or services in our chatbot.
-
-California Online Privacy Protection Act
-
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
-
-According to CalOPPA, we agree to the following:
-Once this privacy policy is created, we will add a link to it on our home page (www.electoral.gov.bb) or as a minimum, on the first significant page after entering our website.
-Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.
-
-You will be notified of any Privacy Policy changes:
-      • On our Privacy Policy Page
-
-Does our chatbot allow third-party behavioral tracking?
-It's also important to note that we do not allow third-party behavioral tracking
-
-COPPA (Children Online Privacy Protection Act)
-
-When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
-
-We do not specifically market to children under the age of 13 years old.
-
-We do not let third-parties, including ad networks or plug-ins collect PII from children under 13?
-
-Fair Information Practices
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:
-
-We will notify the users via in-site notification
-      • Within 7 business days
-
-We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
-
-CAN SPAM Act
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
-We may collect your email address in order to:
-      • Send information, respond to inquiries, and/or other requests or questions, as well as to process you request to be an elector or to inform us of a change of address.
+TERMS FOR EBCBOT
+These terms are an agreement between you and skill publisher for the use of the skill available through Cortana and Cortana enable devices (“Cortana Services”). Please read them. They apply to your use of the Company Skill, including any updates to the skill, unless skill publisher provides you with separate terms, in which case those terms apply. Skill publisher means the entity making the skill available to you, as identified in the Cortana Skill description. 
+IF YOU DO NOT ACCEPT THESE TERMS, YOU HAVE NO RIGHT TO AND MUST NOT USE THE SKILL. 
+By accepting these terms, you represent that you are at least 18 years old or have reached the age of majority where you live, if that is more than 18 years of age. If you are under 18 or have not reached such age of majority, your parent or legal guardian must accept these terms on your behalf. 
+If you comply with these terms, you have the rights below. 
+1.	USE: You may use the skill for the sole purpose of interacting with the service provided by skill publisher through Cortana Services. The Company reserves all other rights.
+2.	RESTRICTIONS: You may not:
+a.	Work around any technical limitations of the skill;
+b.	Modify, reverse engineer or otherwise alter the skill (except to the extent this is authorized by applicable law notwithstanding this limitation);
+c.	Use the skill in any way prohibited by law, regulation, governmental order or decree;
+d.	Use the skill to:
+i.	defame, abuse, harass, stalk, threaten, or otherwise violate the legal rights (such as rights of privacy and publicity) of others;
+ii.	engage in activity that is false or misleading or that is harmful to you, others (including children), or the skill or Cortana Service (e.g., transmitting viruses, communicating hate speech, or advocating violence against others);
+iii.	share inappropriate content, advertising, spam, spyware or malware;
+iv.	gain (or attempt to gain) unauthorized access to any service, data, account or network by any means.
+e.	Infringe upon the rights of others;
+f.	Use the skill anywhere other than through the Cortana Services where the skill publisher has made it available, unless the skill publisher has enabled such uses;
+g.	Remove, modify, or tamper with any notice or link that is incorporated into the skill.
+3.	TERMINATION: If skill publisher believes that you are making unauthorized use of the skill or that you are in violation of these terms, it may suspend or terminate your access to skill publisher’s service with or without notice. This may result in a loss of your data.
+4.	YOUR CONTENT: You grant to skill publisher the right to use any content that you submit via the skill as necessary for skill publisher to provide the service to you.
+5.	TECHNOLOGY AND EXPORT RESTRICTIONS. The skill may be subject to United States or international technology control or export laws and regulations. You must comply with all domestic and international export laws and regulations that apply to the technology used or supported by the skill.
+6.	SUPPORT SERVICES. Contact the skill publisher to determine if any support services are available.
+7.	CHANGES TO TERMS. Skill publisher may update these terms of use at any time by amending this page. Please check this page from time to time to take notice of any changes, as they are binding on you.
+8.	ENTIRE AGREEMENT. This agreement and any applicable privacy policy are the entire agreement between you and the skill publisher.
+9.	APPLICABLE LAW.
+ .	United States and Canada. If you acquired the skill in the United States or Canada, the laws of the state or province where you live (or, if a business, where your principal place of business is located) govern the interpretation of these terms, claims for breach of them, and all other claims (including consumer protection, unfair competition, and tort claims), regardless of conflict of law principles.
+a.	Outside the United States and Canada. If you acquired the skill in any other country, the laws of that country apply.
+10.	LEGAL EFFECT. This agreement describes certain legal rights. You may have other rights under the laws of your state or country. This agreement doesn’t change your rights under the laws of your state or country if the laws of your state or country don’t permit it to do so.
+11.	DISCLAIMER OF WARRANTY. The skill and the service accessed via the skill are provided “as is” “with all faults” and “as available”. You bear the risk as to its quality and performance. The skill publisher gives no express warranties, guarantees, or conditions in relation to the skill. To the extent permitted under your local laws, skill publisher excludes any implied warranties or conditions, including those of merchantability, fitness for a particular purpose and non-infringement.
+12.	LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES. To the extent not prohibited by law, if you have any basis for recovering damages, you can recover from the skill publisher only direct damages up to the amount you paid for the skill or USD$1.00, whichever is greater. You will not, and waive any right to, seek to recover any other damages, including consequential, lost profits, special, indirect or incidental damages from the bot publisher. If your local laws impose a warranty, guarantee or condition even though these terms do not, its duration is limited to 90 days from when you begin using the skill.
+ .	This limitation applies to:
+ .	Anything related to the skill or services made available through the skill; and
+i.	Claims for breach of contract, warranty, guarantee, or condition; strict liability, negligence, or other tort; violation of a statute or regulation; unjust enrichment; or under any other theory; all to the extent permitted by applicable law.
+a.	This limitation applies even if:
+ .	This remedy doesn’t fully compensate you for any losses; or
+i.	The skill publisher knew or should have known about the possibility of the damages.
 
 
-Contacting Us
-
-If there are any questions regarding this privacy policy, you may contact us using the information below.
-
-ebcbot
-Warrens Towers II
-Bridgetown, St. Michael BB23028
-Barbados
-electoral.barbados.gov.bb
-2465354800
