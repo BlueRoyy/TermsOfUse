@@ -1,4 +1,4 @@
-TERMS FOR EBCBOT
+TERMS FOR EBCBOT (Invocation Name: Barbados Electoral)
 
 These terms are an agreement between you and skill publisher for the use of the skill available through Cortana and Cortana enable devices (“Cortana Services”). Please read them. They apply to your use of the Company Skill, including any updates to the skill, unless skill publisher provides you with separate terms, in which case those terms apply. Skill publisher means the entity making the skill available to you, as identified in the Cortana Skill description. 
 IF YOU DO NOT ACCEPT THESE TERMS, YOU HAVE NO RIGHT TO AND MUST NOT USE THE SKILL. 
