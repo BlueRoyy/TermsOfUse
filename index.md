@@ -1,4 +1,5 @@
 TERMS FOR EBCBOT
+
 These terms are an agreement between you and skill publisher for the use of the skill available through Cortana and Cortana enable devices (“Cortana Services”). Please read them. They apply to your use of the Company Skill, including any updates to the skill, unless skill publisher provides you with separate terms, in which case those terms apply. Skill publisher means the entity making the skill available to you, as identified in the Cortana Skill description. 
 IF YOU DO NOT ACCEPT THESE TERMS, YOU HAVE NO RIGHT TO AND MUST NOT USE THE SKILL. 
 By accepting these terms, you represent that you are at least 18 years old or have reached the age of majority where you live, if that is more than 18 years of age. If you are under 18 or have not reached such age of majority, your parent or legal guardian must accept these terms on your behalf. 
